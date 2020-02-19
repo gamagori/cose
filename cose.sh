@@ -41,7 +41,8 @@ fi
 
 # TODO: Adjust the color settings for vim.
 # TODO: Install a nice IDE.
-# I don't have a strong opinion on IDEs. 
+# I don't have a strong opinion on IDEs, but maybe there's something simple 
+# that works well with vim. 
 
 
 # TODO: Install GNOME Shell Integration, so we can hide the top bar. 
@@ -69,3 +70,6 @@ fi
 # ad blockers, that sort of thing. https://xkcd.com/2112
 # That sounds like it'd be a nice thing to have as well, although this is 
 # already getting pretty complicated. 
+
+# TODO: Install a nice theme for the web browsers. I usually like dark themes.
+# TODO: Change the home page to the web browsers to a blank page, so it's simpler.
