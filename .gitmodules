@@ -1,0 +1,3 @@
+[submodule "cozette-otb"]
+	path = cozette-otb
+	url = https://aur.archlinux.org/cozette-otb.git
